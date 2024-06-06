@@ -37,4 +37,9 @@ public class MyPoint {
     public String toString() {
         return "(" + x + ", " + y + ")";
     }
+
+    public double distance(MyPoint end) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'distance'");
+    }
 }
